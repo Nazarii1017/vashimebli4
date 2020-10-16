@@ -67,6 +67,6 @@
                                                                             
                                                                             @media (max-width:700px) {
                                                                                 .navigation {
-                                                                                    display: block;
+                                                                                    display: table-cell;
                                                                                 }
                                                                             }
