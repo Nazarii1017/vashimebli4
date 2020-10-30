@@ -1,4 +1,4 @@
-   * {
+* {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -48,10 +48,10 @@ header .horizontal-head {
 
 .navigation li {
     margin-right: 10px;
-    color: white;
 }
 
 .navigation li a {
+    color: white;
     text-decoration: none;
     font-size: 15px;
     font: inherit;
